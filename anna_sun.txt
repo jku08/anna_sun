@@ -4,7 +4,6 @@ Chord Chart by Bill
 
 Bar1            Bar3            Bar5            Bar7
 
-
 - Synth Pad in (pp -> mp) (for ~ 6 Bars)
 bB
 
