@@ -6,84 +6,94 @@ Chord Chart by Bill
 
 Bar1            Bar3            Bar5            Bar7
 
-- Synth Pad in (pp -> mp) (for ~ 6 Bars)
-bB
-
-- Vocal In
+Screen falling off...
+- Synth: Pad
 bB              F               Gm              F
 
-- Bass Drum In
-- Bass In
-- Soft guitar on Bar 1 and 5
+House fire crackers in the east...
+- Guitar: Bar 1 and 5
+- Bass: bB, bB, Gm, Gm->F
+- Bass drum
 bB              F               Gm              F
 
-- Toms In (Scene oh Anna Sun...)
+Scene oh Anna Sun...
+- Bass drum and Toms
 bE              bB              bE              bE
 
-- Closed 8-Beat --> 16-Beat (Do you know...falling apart)
-- Full guitar on every bar from here
-- Bass pauses for first 4 bars
-- Synth Pad mf
+Do you know the house...
+- Guitar: Bar 1-4: 3-strum; Bar 5-: 4-strum
+- Bass: pauses for Bar 1-4
+- Drums: Bar 1-4: 8-Beat, Bar 5-: 16-Beat
 Gm      bE      bB      F       Gm      bE      F       F
 F       F
 
-- Synth Lead Solo (ff) w/ Open 8-Beat
+Synth: Solo
+- Guitar: Back to 3-strum
+- Drums: Disco Beats
 bB              bB              bE              bE
 
-
-
-- Vocal In Again w/ Closed 16-beat
-- Synth Pad mf
+Screen falling off...
+- Synth: Pad
+- Guitar & Bass: 4-strum
+- Drums: 16-beat
 bB              F               Gm              F
 
-- Closed 16-beat (Scene Oh Anna Sun)
+Scene Oh Anna Sun
+- Guitar & Bass: 3 strum
 bE              bB              bE              bE
 
-- Open 8-Beat (Do you know...Falling apart)
-- Synth Lead (f->ff)
+Do you know the house...
+- Synth: Lead
+- Guitar: strum 3,3,3,4,4,4,4,4
+- Bass: you know what to do Ian
+- Drums: Disco
 Gm      bE      bB      F       Gm      bE      F       F
 Gm      bE      bB      F       Gm      bE      F       F
 F       F
 
-- Synth Lead Solo (ff)
+Synth: Solo
+- Guitar & Bass: 3 strum
+- Drums: Disco
+bB              bB              bE              bE
+
+Live my life without...
+- Synth: Pad
+- Bass Drum
+bB              F               Gm              F
+bB              F               Gm              F
+
+Live my life without...
+- Backing Vocal
+- Guitar: 1 strum at bar 1
+- Bass drum and toms
+bB              F               Gm              F
+
+Racing down the hill...
+- Guitar: 1 strum at bar 1, 5 and 8 each
+bB              F               Gm              F
+
+Time oh Anna Sun...
+- Guitar & Bass: 3-strum
+- Drums: 16-beat
 bE              bB              bE              bE
 
-
-
-- Bass Drum + Synth Pad (p -> mf) (Live my life without...Now it's all a wash)
-bB              F               Gm              F
-bB              F               Gm              F
-
-- Toms & Backing Vocal In (Live my life without...I want every one)
-- Guitar soft on bar 1
-bB              F               Gm              F
-
-- Snare In (Racing down the hill...Wait for summertime)
-- Guitar soft on bar 1, 5 and 8
-bB              F               Gm              F
-
-- 16 Beat (Time oh Anna Sun...Sunnnn)
-- Guitar full again
-bE              bB              bE              bE
+Suuunnnnnn...
+- Guitar: 4-strum
+- Bass: you know what to do
 bE              bE
 
-- Open 8-Beat (Do you know...Falling apart)
-- Synth Lead (f->ff)
+Do you know this house...
+- Synth: Lead
+- Guitar & Bass: Do your usual shit
+- Drums: Disco
 Gm      bE      bB      F       Gm      bE      F       F
 Gm      bE      bB      F       Gm      bE      F       F
 F       F
 
-- Synth Lead Solo (ff) + Lead & Back Vocal Repeat + Open 8-Beat
-Gm              bE              bB              F
-Gm              bE
-
-
-
-- Bass drum
-- Guitar only on every Bar 1 and 5
-- Synth Pad (mf)
-bB                              bE
-bB                              bE
-
-- Finish Strong!
-bB
+Ending (12 bars + 1 beat)
+- Synth: Solo
+- Vocal Repeats: This house is falling apart
+- Guitar and Bass: 3-strum
+- Drums: Keep disco
+Gm				bE				bB				F
+Gm				bE				bB
