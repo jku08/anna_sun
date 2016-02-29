@@ -95,5 +95,5 @@ Ending (12 bars + 1 beat)
 - Vocal Repeats: This house is falling apart
 - Guitar and Bass: 3-strum
 - Drums: Keep disco
-Gm				bE				bB				F
-Gm				bE				bB
+Gm              bE              bB              F
+Gm              bE              bB
